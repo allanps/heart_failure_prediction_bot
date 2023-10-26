@@ -1,5 +1,5 @@
 #assets
-assets/heart.csv
+# assets/heart.csv
 *.joblib
 *.pkl
 
